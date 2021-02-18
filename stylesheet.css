@@ -1,0 +1,41 @@
+h1{
+    font-family: sans-serif;
+    color: azure;
+}
+body{
+    background-image: url(bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial;
+    margin-top: 0px;
+  }
+  
+  
+  .navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  
+  
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: white;
+  }
+  h2{
+      margin-left: 700px;
+  }
+  table{
+      margin-left: 700px;
+      border-style: solid;
+      margin-right: 100px;
+      width: 100%;
+  }
+  tr:nth-child(even) {background-color:rgb(0, 0, 0);}
